@@ -1,5 +1,5 @@
 # pocket_vc
-Start-ups sourcing and analysis algorithms built for Entrepreneurs Venture Capital investors
+Start-ups sourcing and analysis algorithms for Entrepreneurs and Venture Capital investors
 
 **REQUIREMENTS
 
